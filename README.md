@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW eSports" title="NLW eSports" src="github/logo.png" width="200px" />
+    <img alt="NLW eSports" title="NLW eSports" src="github/logo-nlw.png" width="200px" />
 </h1>
 
 <div align="center">
